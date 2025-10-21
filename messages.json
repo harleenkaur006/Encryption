@@ -1,0 +1,13 @@
+[
+  {"partner":"Bob","plaintext":"Hello, how are you bob","ciphertext":"AU3RvGsnQIdlj2NXaBeNo2FyHr1cVsF1o6vrSySA/Xw="},
+  {"partner":"Bob","plaintext":"hi","ciphertext":"ZakMiteWcd0mU5bniq7Szw=="},
+  {"partner":"Bob","plaintext":"","ciphertext":"BQGHoM3lqYcsurCRq3PlUw=="},
+  {"partner":"Bob","plaintext":"","ciphertext":"BQGHoM3lqYcsurCRq3PlUw=="},
+  {"partner":"BOb","plaintext":"hi ","ciphertext":"ov63QnFK61WAdcFcsfIS6w=="},
+  {"partner":"BOb","plaintext":"hi","ciphertext":"ZakMiteWcd0mU5bniq7Szw=="},
+  {"partner":"Alice","plaintext":"hi","ciphertext":"ZakMiteWcd0mU5bniq7Szw=="},
+  {"partner":"Bob","plaintext":"hello","ciphertext":"67fHA+Z12z2jlwOLTBeCPA=="},
+  {"partner":"Alice","plaintext":"hello","ciphertext":"67fHA+Z12z2jlwOLTBeCPA=="},
+  {"partner":"Alice","plaintext":"hello","ciphertext":"67fHA+Z12z2jlwOLTBeCPA=="},
+  {"partner":"Bob","plaintext":"hello","ciphertext":"67fHA+Z12z2jlwOLTBeCPA=="}
+]
